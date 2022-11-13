@@ -1,3 +1,7 @@
+---
+typora-root-url: ../
+---
+
 ## Intro
 
 **머신러닝 이론을 공부하겠습니다.**
@@ -118,11 +122,11 @@ print(x) # 43 ->백분위수
   plt.show()
   ```
 
-<img src="C:\Users\KoBongHun\Desktop\GDSC\스터디\ML 스터디\ML-Study\image\2022-11-12-(mltheory)Study_Week3\image-20221112202621800.png" alt="image-20221112202621800" style="zoom:50%;" />
+<img src="./images/2022-11-12-(mltheory)Study_Week3/image-20221112202621800.png" alt="image-20221112202621800" style="zoom:50%;" />
 
 * 중요한 것은 x,y가 관계가 있어야 합니다. 관계가 없는경우 올바른 예측값을 구할 수 없습니다.
 
-  <img src="C:\Users\KoBongHun\Desktop\GDSC\스터디\ML 스터디\ML-Study\image\2022-11-12-(mltheory)Study_Week3\image-20221112202825763.png" alt="image-20221112202825763" style="zoom:50%;" />
+  <img src="./images/2022-11-12-(mltheory)Study_Week3\image-20221112202825763.png" alt="image-20221112202825763" style="zoom:50%;" />
 
 * 마지막으로 이러한 관계를 알아보는 방법이 있습니다.  
   r-제곱이라는 값으로 구해주며 이를 Python에서 제공합니다.
@@ -270,7 +274,7 @@ K는 사용할 최근접이웃의 수입니다. 분류의 경우 과반수 투�
   plt.show()
   ```
 
-<img src="C:\Users\KoBongHun\Desktop\GDSC\스터디\ML 스터디\ML-Study\image\2022-11-12-(mltheory)Study_Week3\image-20221112214812376.png" alt="image-20221112214812376" style="zoom:50%;" />
+<img src="./images/2022-11-12-(mltheory)Study_Week3\image-20221112214812376.png" alt="image-20221112214812376" style="zoom:50%;" />
 
 * `class: 0` 그룹으로 선정된 모습이다.
 
