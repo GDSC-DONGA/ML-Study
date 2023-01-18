@@ -1074,7 +1074,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![image-20230118183223526](..\images\2022-12-01-(opencv)Study_Week6\image-20230118183223526.png)
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118183223526.png" alt="image-20230118183223526"  />
 
 <br>
 
@@ -1172,7 +1172,7 @@ while True:
 cv2.destroyAllWindows()
 ```
 
-<img src="C:\Users\KoBongHun\Desktop\GDSC\images\2022-12-01-(opencv)Study_Week6\image-20230118184445275.png" alt="image-20230118184445275" style="zoom:67%;" />
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118184445275.png" alt="image-20230118184445275" style="zoom:67%;" />
 
 <br>
 
@@ -1381,7 +1381,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![image-20230118191846926](..\images\2022-12-01-(opencv)Study_Week6\image-20230118191846926.png)
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118191846926.png" alt="image-20230118191846926" style="zoom:80%;" />
 
 
 
@@ -1422,7 +1422,7 @@ while True:
 cv2.destroyAllWindows()
 ```
 
-![image-20230118191729538](..\images\2022-12-01-(opencv)Study_Week6\image-20230118191729538.png)
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118191729538.png" alt="image-20230118191729538" style="zoom:80%;" />
 
 <br>
 
@@ -1550,7 +1550,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![image-20230118192631395](..\images\2022-12-01-(opencv)Study_Week6\image-20230118192631395.png)
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118192631395.png" alt="image-20230118192631395"  />
 
 <br>
 
@@ -1585,4 +1585,4 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![image-20230118192908881](..\images\2022-12-01-(opencv)Study_Week6\image-20230118192908881.png)
+<img src="..\images\2022-12-01-(opencv)Study_Week6\image-20230118192908881.png" alt="image-20230118192908881"  />
